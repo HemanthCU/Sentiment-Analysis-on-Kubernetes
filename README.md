@@ -1,4 +1,4 @@
-# lab7-sentiment-kubernetes
+# Sentiment Analysis on Kubernetes
 Sentiment-analysis-as-a-service (SAaaS)
 ## Overview
 In this lab, you're going to create a kubernetes cluster that provides a REST API for sentiment analysis on sentences and records them in a database. You can, if you wish, provide an alternate gRPC API following the genera outline of this lab.
